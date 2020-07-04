@@ -1,0 +1,25 @@
+---
+lang: nld
+dtype: wet
+url: http://www.ejustice.just.fgov.be/eli/wet/1807/09/10/1807091051/justel
+dateString: 10 SEPTEMBER 1807
+title: WETBOEK VAN KOOPHANDEL  BOEK II
+subTitle: INLEIDENDE TITEL EN BOEK I  Personen (art. 1-515).
+pubDate: 10-09-1807
+startDate: 13-09-1807
+number: 1807091051
+updated: 
+
+---
+Art.  M. ( Voor de autonome Tekst : 1879-08-21/30)
+## Titel I VAN ZEESCHEPEN EN ANDERE ZEEVAARTUIGEN.
+## Titel II EIGENAARS VAN SCHEPEN EN SCHEEPSVOLK.
+## Titel III CHARTERPARTIJ OF OVEREENKOMST VAN SCHEEPSHUUR.
+## Titel IV VERVOER VAN REIZIGERS OP ZEE.
+## Titel V BODEMERIJ.
+## Titel VI ZEEVERZEKERING.
+## Titel VII AANVARING.
+## Titel VIII HULP- EN BERGLOON.
+## Titel IX GRONDEN VAN NIET-ONTVANKELIJKHEID EN VERJARING.
+## Titel X BINNENSCHEPEN.
+

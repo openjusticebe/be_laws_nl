@@ -618,8 +618,7 @@ Nochtans zal, ingeval er kinderen zijn uit een vroeger huwelijk, elke overeenkom
 
 **Art. 1528.** De bedongen gemeenschap blijft onderworpen aan de regels van de wettelijke gemeenschap, voor alle gevallen waarin het contract daarvan niet stilzwijgend of uitdrukkelijk afwijkt.
 
-
-AFDELING IX. - OVEREENKOMSTEN WAARBIJ DE GEMEENSCHAP VAN GOEDEREN WORDT UITGESLOTEN.
+#### Afdeling IX  - OVEREENKOMSTEN WAARBIJ DE GEMEENSCHAP VAN GOEDEREN WORDT UITGESLOTEN.
 
 
 **Art. 1529.** Wanneer de echtgenoten, zonder zich aan het dotaal stelsel te onderwerpen, verklaren dat zij zonder gemeenschap huwen, of dat zij gescheiden van goederen zullen zijn, worden de gevolgen van dit beding geregeld als volgt.

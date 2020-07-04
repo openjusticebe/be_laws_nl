@@ -1606,8 +1606,7 @@ Maar men mag niet bedingen dat de deelpachter het gehele verlies zal dragen.
 
 **Art. 1831.** Wanneer een of meer koeien gegeven worden om die te stallen en te voeden, behoudt de verhuurder de eigendom daarvan; geen ander voordeel dan de kalveren die van de koeien voortkomen, komt hem toe.
 
-
-TITEL IX. - (VENNOOTSCHAPPEN). `W 14-07-1987, art. 1`
+## Titel IX (VENNOOTSCHAPPEN). `W 14-07-1987, art. 1`
 
 ### Hoofdstuk I ALGEMENE BEPALINGEN.
 
@@ -1754,8 +1753,7 @@ BEPALING BETREFFENDE DE HANDELSVENNOOTSCHAPPEN.
 
 **Art. 1873.** (Opgeheven) `W 1999-05-07/66, art. 16, 005;  Inwerkingtreding :  06-02-2001`
 
-
-TITEL X. - LENING.
+## Titel X LENING.
 
 
 **Art. 1874.** Er zijn twee soorten van lening :
@@ -1932,8 +1930,7 @@ Partijen kunnen slechts overeenkomen dat de aflossing niet zal geschieden dan na
 
 **Art. 1914.** De regels betreffende de lijfrente worden bepaald in de titel Kanscontracten.
 
-
-TITEL XI. - BEWAARGEVING EN SEKWESTER.
+## Titel XI BEWAARGEVING EN SEKWESTER.
 
 ### Hoofdstuk I BEWAARGEVING IN HET ALGEMEEN EN VERSCHILLENDE SOORTEN VAN BEWAARGEVING.
 
@@ -2166,8 +2163,7 @@ De verplichting van de beslaglegger bestaat in de betaling van het bij de wet be
 
 In beide gevallen is hij aan wie de zaak is toevertrouwd, onderworpen aan alle verplichtingen die het bedongen sekwester medebrengt.
 
-
-TITEL XII. - KANSCONTRACTEN.
+## Titel XII KANSCONTRACTEN.
 
 
 **Art. 1964.** Een kanscontract is een wederkerige overeenkomst, waarvan de gevolgen, met betrekking tot winst en verlies, hetzij voor alle partijen, hetzij voor een of meer van hen, van een onzekere gebeurtenis afhangen.
@@ -2258,8 +2254,7 @@ Indien echter bedongen is, dat zij vooruit betaald moet worden, is het recht op 
 
 **Art. 1983.** De eigenaar van een lijfrente kan de termijnen ervan niet vorderen dan door te doen blijken van zijn bestaan, of van het bestaan van hem op wiens leven zij gevestigd is.
 
-
-TITEL XIII. - LASTGEVING.
+## Titel XIII LASTGEVING.
 
 ### Hoofdstuk I AARD EN VORM VAN DE LASTGEVING.
 

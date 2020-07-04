@@ -212,8 +212,7 @@ Elke mededeling inzake niet uitvoering die wordt gedaan aan de schuldenaar door 
 
 Niettegenstaande enige andersluidende overeenkomst bestaat er geen hoofdelijkheid tussen de erfgenamen van een borg voor de verbintenissen van de borg.
 
-
-TITEL XV. - DADING.
+## Titel XV DADING.
 
 
 **Art. 2044.** Dading is een contract, waarbij partijen een gerezen geschil beëindigen, of een toekomstig geschil voorkomen.
@@ -281,8 +280,7 @@ Maar de dading is nietig, indien zij slechts een enkele zaak betreft en uit nade
 
 **Art. 2058.** Een rekenfout, bij een dading gemaakt, moet verbeterd worden.
 
-
-TITEL XVI. - LIJFSDWANG IN BURGERLIJKE ZAKEN.
+## Titel XVI LIJFSDWANG IN BURGERLIJKE ZAKEN.
 
 
 **Art. 2059.** (Opgeheven) `W 21-03-1859, art. 48`.
@@ -320,8 +318,7 @@ TITEL XVI. - LIJFSDWANG IN BURGERLIJKE ZAKEN.
 
 **Art. 2070.** (Opgeheven) `W 21-03-1859, art. 48`.
 
-
-TITEL XVII. [1 - Zakelijke zekerheden op roerende goederen]1
+## Titel XVII  [1 - Zakelijke zekerheden op roerende goederen]1
 
 (NOTA: Titel XVII wordt 2013-07-11/19)
 
@@ -338,13 +335,11 @@ TITEL XVII. [1 - Zakelijke zekerheden op roerende goederen]1
 
 `Opgeheven bij W 2013-07-11/19, art. 2, 014; Inwerkingtreding : 01-01-2018` 
 
-
-TITEL XVIII. - VOORRECHTEN EN HYPOTHEKEN.
+## Titel XVIII VOORRECHTEN EN HYPOTHEKEN.
 
 (NOTA : De artikelen 2092 tot 2203 werd vervangen door art. 1 van de W van 16 december 1851. Voor de tekst, zie 1851-12-16/01)
 
-
-TITEL XIX. - GERECHTELIJKE UITWINNING EN RANGREGELING ONDER DE SCHULDEISERS.
+## Titel XIX GERECHTELIJKE UITWINNING EN RANGREGELING ONDER DE SCHULDEISERS.
 
 
 **Art. 2204.** (Opgeheven) `W 10-10-1967, art. 24`.
@@ -391,8 +386,7 @@ TITEL XIX. - GERECHTELIJKE UITWINNING EN RANGREGELING ONDER DE SCHULDEISERS.
 
 **Art. 2218.** (Opgeheven) `W 10-10-1967, art. 24`.
 
-
-TITEL XX. - VERJARING.
+## Titel XX VERJARING.
 
 ### Hoofdstuk I ALGEMENE BEPALINGEN.
 
@@ -764,8 +758,7 @@ Niettemin kan hij die een zaak verloren heeft of aan wie een zaak ontstolen is, 
 
 **Art. 2280.** Indien de tegenwoordige bezitter van de gestolen of verloren zaak deze gekocht heeft op een jaarmarkt of op een andere markt, of op een openbare verkoping, of van een koopman die dergelijke zaken verkoopt, kan de oorspronkelijke eigenaar zich de zaak niet doen teruggeven dan mits hij de prijs die zij hem gekost heeft, aan de bezitter terugbetaalt.
 
-
-TITEL XXI. - (KENNISGEVING). `W 2001-10-20/40, art. 3;  Inwerkingtreding :  01-01-2001`
+## Titel XXI (KENNISGEVING). `W 2001-10-20/40, art. 3;  Inwerkingtreding :  01-01-2001`
 
 
 **Art. 2281.** `W 2000-10-20/40, art. 3, 006;  Inwerkingtreding :  01-01-2001` Wanneer een kennisgeving schriftelijk dient te gebeuren om door de kennisgever te kunnen worden aangevoerd, wordt ook een kennisgeving per telegram, telex, telefax, elektronische post of enig ander telecommunicatiemiddel dat resulteert in een schriftelijk stuk aan de zijde van de geadresseerde, als een schriftelijke kennisgeving beschouwd. Hetzelfde geldt wanneer de kennisgeving slechts daarom niet in een schriftelijk stuk resulteert aan de zijde van de geadresseerde omdat deze een andere wijze van ontvangst hanteert.
