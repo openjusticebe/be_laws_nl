@@ -1,7 +1,7 @@
-# Belgian law, FR/md
+# Belgian law, NL/md
 <center> 🚧Still under construction and incomplete, markdown conversion is still in an early stage 🚧</center>
 
-This repository contains consolidated belgian law, extracted from https://www.ejustice.just.fgov.be/cgi_loi/loi.pl
+This repository contains consolidated belgian law, extracted from https://www.ejustice.just.fgov.be/
 
 No digital version of these texts has any legal validity, please refer the paper versions.
 
